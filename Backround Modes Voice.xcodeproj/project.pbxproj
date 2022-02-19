@@ -13,6 +13,7 @@
 		5B320AF127C184CA0003087B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B320AEF27C184CA0003087B /* Main.storyboard */; };
 		5B320AF327C184CC0003087B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B320AF227C184CC0003087B /* Assets.xcassets */; };
 		5B320AF627C184CC0003087B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B320AF427C184CC0003087B /* LaunchScreen.storyboard */; };
+		5B320AFE27C19FFA0003087B /* music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5B320AFD27C19FFA0003087B /* music.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5B320AF227C184CC0003087B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5B320AF527C184CC0003087B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5B320AF727C184CC0003087B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5B320AFD27C19FFA0003087B /* music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = music.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				5B320AF227C184CC0003087B /* Assets.xcassets */,
 				5B320AF427C184CC0003087B /* LaunchScreen.storyboard */,
 				5B320AF727C184CC0003087B /* Info.plist */,
+				5B320AFD27C19FFA0003087B /* music.mp3 */,
 			);
 			path = "Backround Modes Voice";
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B320AFE27C19FFA0003087B /* music.mp3 in Resources */,
 				5B320AF627C184CC0003087B /* LaunchScreen.storyboard in Resources */,
 				5B320AF327C184CC0003087B /* Assets.xcassets in Resources */,
 				5B320AF127C184CA0003087B /* Main.storyboard in Resources */,
